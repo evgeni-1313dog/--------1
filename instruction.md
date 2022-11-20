@@ -21,3 +21,8 @@
 https://en.wikipedia.org/wiki/Git
 
 https://code.visualstudio.com/docs/?dv=win
+
+Безымянный.png
+
+
+
