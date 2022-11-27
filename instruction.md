@@ -26,3 +26,4 @@ https://code.visualstudio.com/docs/?dv=win
 
 Не относитесь к жизни сильно серьёзно, всё равно вам из неё живым не выбраться
 
+*git merge <branch_name* **слияние двух веток**
